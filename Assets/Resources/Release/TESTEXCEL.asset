@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc345888cba33fd40ba1e6ee897f13df, type: 3}
+  m_Name: TESTEXCEL
+  m_EditorClassIdentifier: 
+  dataArray:
+  - ID: 1
+    ChinaName: "\u5F20\u4E09"
+    EnglishName: zhangsan
+    Age: 22
+    height: 161
+    weight: 55kg
+    address: "\u5929\u4F7F\u885718\u53F7"
+    zipcode: 222202
+    hobbit: "\u905B\u72D7"
+    Contact: 14587995
+    emergencycontact: "\u59D0\u59D0"
+  - ID: 2
+    ChinaName: "\u674E\u56DB"
+    EnglishName: lisi
+    Age: 23
+    height: 161
+    weight: 56kg
+    address: "\u5929\u4F7F\u885719\u53F7"
+    zipcode: 222202
+    hobbit: "\u653E\u9E3D\u5B50"
+    Contact: 14587995
+    emergencycontact: "\u7238\u7238"
+  - ID: 3
+    ChinaName: "\u738B\u4E94"
+    EnglishName: wangwu
+    Age: 12
+    height: 161
+    weight: 57kg
+    address: "\u5929\u4F7F\u885720\u53F7"
+    zipcode: 222202
+    hobbit: "\u905B\u72D7"
+    Contact: 14587995
+    emergencycontact: "\u5988\u5988"
+  - ID: 4
+    ChinaName: "\u8D75\u516D"
+    EnglishName: zhaoliu
+    Age: 34
+    height: 161
+    weight: 58kg
+    address: "\u5929\u4F7F\u885721\u53F7"
+    zipcode: 222202
+    hobbit: "\u653E\u9E3D\u5B50"
+    Contact: 14587995
+    emergencycontact: "\u7237\u7237"
+  - ID: 5
+    ChinaName: "\u674E\u4E03"
+    EnglishName: liqi
+    Age: 12
+    height: 161
+    weight: 59kg
+    address: "\u5929\u4F7F\u885722\u53F7"
+    zipcode: 222202
+    hobbit: "\u905B\u72D7"
+    Contact: 14587995
+    emergencycontact: "\u5976\u5976"
+  - ID: 6
+    ChinaName: "\u897F\u95E8\u98D8\u96EA"
+    EnglishName: ximenpiaoxue
+    Age: 45
+    height: 161
+    weight: 60kg
+    address: "\u5929\u4F7F\u885723\u53F7"
+    zipcode: 222202
+    hobbit: "\u653E\u9E3D\u5B50"
+    Contact: 14587995
+    emergencycontact: "\u5927\u53D4"
+  - ID: 7
+    ChinaName: "\u5415\u8F7B\u4FAF"
+    EnglishName: lvqinhou
+    Age: 23
+    height: 161
+    weight: 61kg
+    address: "\u5929\u4F7F\u885724\u53F7"
+    zipcode: 222202
+    hobbit: "\u905B\u72D7"
+    Contact: 14587995
+    emergencycontact: "\u5927\u59D0"
+  - ID: 8
+    ChinaName: "\u738B\u6052"
+    EnglishName: wangheng
+    Age: 67
+    height: 161
+    weight: 62kg
+    address: "\u5929\u4F7F\u885725\u53F7"
+    zipcode: 222202
+    hobbit: "\u653E\u9E3D\u5B50"
+    Contact: 14587995
+    emergencycontact: "\u5927\u5988"
+  - ID: 9
+    ChinaName: "\u4E0A\u5B98\u6C34\u81E3"
+    EnglishName: shangguanshuichen
+    Age: 43
+    height: 161
+    weight: 63kg
+    address: "\u5929\u4F7F\u885726\u53F7"
+    zipcode: 222202
+    hobbit: "\u905B\u72D7"
+    Contact: 14587995
+    emergencycontact: "\u4E00\u5251\u5C01\u5589"
